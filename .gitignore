@@ -1,2 +1,5 @@
 *.log
 bin/
+!bin/*.log
+*/bin/debug.log
+**/bin
